@@ -1,0 +1,11 @@
+body{
+    background-color: burlywood;
+}
+.display{
+    margin-left: 45%;
+    margin-top: 100px;
+    margin-bottom: -60px;
+}
+.time{
+    font-size: 100px;
+}
